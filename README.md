@@ -1,11 +1,10 @@
  👋 Hello There,  Thanks for stopping by ! 
 
-Me in 5 bullet points:
+Me in 4 points:
 
-- 👀  IT Tech and Information Technology student focused in Networks and Security 
-- 🌱 Currently connecting dots to make the world a safer place 
-- 🧱 Would like to contribute to integrity of code and cybersecurity tools 
-- 🧪 I like to speak Python, C++, HTML, CSS, SQL. 
+- 🦎  IT Tech / Cybersecurity enthusiast 
+- 🌱 Currently connecting dots to make the tech world a safer place.    
+- 🧪 Experimenting Powershell at the moment  
 - 🌵 love to hike desserts and mountains on the side 
 
 <!---
