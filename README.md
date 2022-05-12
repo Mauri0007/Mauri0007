@@ -3,7 +3,7 @@
 Me in 4 points:
 
 - 🦎  IT Tech / Cybersecurity enthusiast 
-- 🌱 Currently connecting dots to make the tech world a safer place.    
+- 🌱 Currently connecting dots to make the world a safer place.    
 - 🧪 Experimenting Powershell at the moment  
 - 🌵 love to hike desserts and mountains on the side 
 
